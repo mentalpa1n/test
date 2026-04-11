@@ -1,0 +1,13 @@
+# Игнорируем Python скрипты
+telegrambot.py
+script.py
+scriptsupabase.py
+__pycache__/
+
+# Игнорируем логи и временные данные
+*.log
+mock_orders.json
+crm_import.log
+
+# Игнорируем локальные конфиги
+.env.local
