@@ -1,0 +1,688 @@
+2026-04-10 23:17:22,634 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:22,738 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:22,838 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:22,922 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:23,038 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:24,089 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:24,312 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:24,434 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:24,527 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:24,647 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:25,545 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:25,777 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:26,020 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:26,098 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:26,210 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:26,546 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:17:26,778 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:17:27,020 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:17:27,035 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:27,099 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:17:27,211 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:17:27,250 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:27,580 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:27,671 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:27,778 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:28,468 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:28,670 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:29,080 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:29,192 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:29,298 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:29,926 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:30,104 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:30,580 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:30,724 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:30,825 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:30,927 [ERROR] ❌ Финальный фейл: order-6
+2026-04-10 23:17:31,104 [ERROR] ❌ Финальный фейл: order-7
+2026-04-10 23:17:31,375 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:31,577 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:31,580 [ERROR] ❌ Финальный фейл: order-8
+2026-04-10 23:17:31,724 [ERROR] ❌ Финальный фейл: order-9
+2026-04-10 23:17:31,825 [ERROR] ❌ Финальный фейл: order-10
+2026-04-10 23:17:32,042 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:32,265 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:32,366 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:32,831 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:33,030 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:33,489 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:33,752 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:33,865 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:34,305 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:34,500 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:34,949 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:35,261 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:35,305 [ERROR] ❌ Финальный фейл: order-11
+2026-04-10 23:17:35,355 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:35,501 [ERROR] ❌ Финальный фейл: order-12
+2026-04-10 23:17:35,754 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:35,949 [ERROR] ❌ Финальный фейл: order-13
+2026-04-10 23:17:35,980 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:36,261 [ERROR] ❌ Финальный фейл: order-14
+2026-04-10 23:17:36,355 [ERROR] ❌ Финальный фейл: order-15
+2026-04-10 23:17:36,417 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:36,749 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:36,881 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:37,212 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:37,425 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:37,859 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:38,210 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:38,361 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:38,694 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:38,895 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:39,321 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:39,694 [ERROR] ❌ Финальный фейл: order-16
+2026-04-10 23:17:39,707 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:39,843 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:39,895 [ERROR] ❌ Финальный фейл: order-17
+2026-04-10 23:17:40,182 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:40,321 [ERROR] ❌ Финальный фейл: order-18
+2026-04-10 23:17:40,348 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:40,708 [ERROR] ❌ Финальный фейл: order-19
+2026-04-10 23:17:40,774 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:40,844 [ERROR] ❌ Финальный фейл: order-20
+2026-04-10 23:17:41,173 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:17:41,324 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:28,608 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:28,689 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:28,809 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:28,936 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:29,027 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:30,117 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:30,272 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:30,380 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:30,500 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:30,593 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:31,598 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:31,800 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:31,921 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:32,058 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:32,141 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:32,599 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:19:32,801 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:19:32,921 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:19:33,059 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:19:33,074 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:33,141 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:19:33,274 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:33,445 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:33,564 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:33,687 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:34,525 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:34,748 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:34,950 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:35,089 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:35,177 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:35,999 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:36,202 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:36,445 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:36,634 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:36,700 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:36,999 [ERROR] ❌ Финальный фейл: order-6
+2026-04-10 23:19:37,203 [ERROR] ❌ Финальный фейл: order-7
+2026-04-10 23:19:37,439 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:37,445 [ERROR] ❌ Финальный фейл: order-8
+2026-04-10 23:19:37,630 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:19:37,635 [ERROR] ❌ Финальный фейл: order-9
+2026-04-10 23:19:37,700 [ERROR] ❌ Финальный фейл: order-10
+2026-04-10 23:20:10,691 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:10,856 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:10,900 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:11,000 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:11,106 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:12,150 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:12,470 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:12,553 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:12,639 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:12,739 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:13,662 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:14,155 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:14,308 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:14,326 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:14,453 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:14,662 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:20:15,147 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:15,155 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:20:15,308 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:20:15,327 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:20:15,454 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:20:15,650 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:15,846 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:15,955 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:16,063 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:16,646 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:17,116 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:17,349 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:17,504 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:17,598 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:18,091 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:18,586 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:18,821 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:19,025 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:19,092 [ERROR] ❌ Финальный фейл: order-6
+2026-04-10 23:20:19,161 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:19,586 [ERROR] ❌ Финальный фейл: order-7
+2026-04-10 23:20:19,611 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:19,822 [ERROR] ❌ Финальный фейл: order-8
+2026-04-10 23:20:20,026 [ERROR] ❌ Финальный фейл: order-9
+2026-04-10 23:20:20,028 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:20,161 [ERROR] ❌ Финальный фейл: order-10
+2026-04-10 23:20:20,310 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:20,579 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:20,708 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:21,114 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:21,571 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:21,803 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:22,160 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:22,263 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:22,578 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:23,092 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:23,270 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:23,579 [ERROR] ❌ Финальный фейл: order-11
+2026-04-10 23:20:23,714 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:23,800 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:24,092 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:24,093 [ERROR] ❌ Финальный фейл: order-12
+2026-04-10 23:20:24,271 [ERROR] ❌ Финальный фейл: order-13
+2026-04-10 23:20:24,609 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:24,715 [ERROR] ❌ Финальный фейл: order-14
+2026-04-10 23:20:24,779 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:24,801 [ERROR] ❌ Финальный фейл: order-15
+2026-04-10 23:20:25,279 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:25,390 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:25,618 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:26,186 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:26,304 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:26,868 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:26,995 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:27,167 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:27,709 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:27,826 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:28,168 [ERROR] ❌ Финальный фейл: order-16
+2026-04-10 23:20:28,439 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:28,608 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:28,710 [ERROR] ❌ Финальный фейл: order-17
+2026-04-10 23:20:28,719 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:28,827 [ERROR] ❌ Финальный фейл: order-18
+2026-04-10 23:20:29,296 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:29,385 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:29,439 [ERROR] ❌ Финальный фейл: order-19
+2026-04-10 23:20:29,608 [ERROR] ❌ Финальный фейл: order-20
+2026-04-10 23:20:29,968 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:30,211 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:30,322 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:30,897 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:31,003 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:31,457 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:31,759 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:31,890 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:32,487 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:32,581 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:32,891 [ERROR] ❌ Финальный фейл: order-21
+2026-04-10 23:20:32,991 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:33,301 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:33,425 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:33,487 [ERROR] ❌ Финальный фейл: order-22
+2026-04-10 23:20:33,582 [ERROR] ❌ Финальный фейл: order-23
+2026-04-10 23:20:33,992 [ERROR] ❌ Финальный фейл: order-24
+2026-04-10 23:20:34,023 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:34,173 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:34,302 [ERROR] ❌ Финальный фейл: order-25
+2026-04-10 23:20:34,471 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:34,858 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:34,993 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:35,561 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:35,690 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:36,023 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:36,396 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:36,527 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:37,137 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:37,268 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:37,520 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:37,528 [ERROR] ❌ Финальный фейл: order-26
+2026-04-10 23:20:37,898 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:38,003 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:38,137 [ERROR] ❌ Финальный фейл: order-27
+2026-04-10 23:20:38,268 [ERROR] ❌ Финальный фейл: order-28
+2026-04-10 23:20:38,520 [ERROR] ❌ Финальный фейл: order-29
+2026-04-10 23:20:38,643 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:38,774 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:38,899 [ERROR] ❌ Финальный фейл: order-30
+2026-04-10 23:20:39,012 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:39,355 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:39,505 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:40,141 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:40,298 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:40,607 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:40,898 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:41,057 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:41,655 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:41,826 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:42,058 [ERROR] ❌ Финальный фейл: order-31
+2026-04-10 23:20:42,102 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:42,401 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:42,601 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:42,655 [ERROR] ❌ Финальный фейл: order-32
+2026-04-10 23:20:42,826 [ERROR] ❌ Финальный фейл: order-33
+2026-04-10 23:20:43,103 [ERROR] ❌ Финальный фейл: order-34
+2026-04-10 23:20:43,185 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:43,346 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:43,401 [ERROR] ❌ Финальный фейл: order-35
+2026-04-10 23:20:43,591 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:43,917 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:44,102 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:44,668 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:44,892 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:45,149 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:45,433 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:45,599 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:46,221 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:46,427 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:46,600 [ERROR] ❌ Финальный фейл: order-36
+2026-04-10 23:20:46,664 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:46,939 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:47,133 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:47,222 [ERROR] ❌ Финальный фейл: order-37
+2026-04-10 23:20:47,428 [ERROR] ❌ Финальный фейл: order-38
+2026-04-10 23:20:47,665 [ERROR] ❌ Финальный фейл: order-39
+2026-04-10 23:20:47,721 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:47,924 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:47,939 [ERROR] ❌ Финальный фейл: order-40
+2026-04-10 23:20:48,186 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:48,429 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:48,661 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:49,269 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:49,551 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:49,715 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:49,970 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:50,147 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:50,818 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:51,141 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:51,148 [ERROR] ❌ Финальный фейл: order-41
+2026-04-10 23:20:51,249 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:51,497 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:51,667 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:51,819 [ERROR] ❌ Финальный фейл: order-42
+2026-04-10 23:20:52,142 [ERROR] ❌ Финальный фейл: order-43
+2026-04-10 23:20:52,250 [ERROR] ❌ Финальный фейл: order-44
+2026-04-10 23:20:52,296 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:52,498 [ERROR] ❌ Финальный фейл: order-45
+2026-04-10 23:20:52,717 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:52,838 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:53,049 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:53,171 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:53,817 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:54,284 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:54,405 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:54,658 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:54,746 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:55,302 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:55,746 [ERROR] ❌ Финальный фейл: order-46
+2026-04-10 23:20:55,851 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:55,989 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:56,203 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:20:56,302 [ERROR] ❌ Финальный фейл: order-47
+2026-04-10 23:20:56,851 [ERROR] ❌ Финальный фейл: order-48
+2026-04-10 23:20:56,989 [ERROR] ❌ Финальный фейл: order-49
+2026-04-10 23:20:57,204 [ERROR] ❌ Финальный фейл: order-50
+2026-04-10 23:20:57,206 [INFO] 🎯 Итог: 0 успешно, 50 ошибок
+2026-04-10 23:30:12,958 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:13,059 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:13,186 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:13,252 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:13,369 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:14,455 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:14,632 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:14,776 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:14,934 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:14,995 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:15,911 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:16,134 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:16,298 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:16,494 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:16,579 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:16,912 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:30:17,134 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:30:17,298 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:30:17,421 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:17,495 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:30:17,580 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:30:17,600 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:17,786 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:18,004 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:18,139 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:18,881 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:19,092 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:19,248 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:19,488 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:19,657 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:20,368 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:20,553 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:20,711 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:20,959 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:21,134 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:21,368 [ERROR] ❌ Финальный фейл: order-6
+2026-04-10 23:30:21,554 [ERROR] ❌ Финальный фейл: order-7
+2026-04-10 23:30:21,711 [ERROR] ❌ Финальный фейл: order-8
+2026-04-10 23:30:21,840 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:21,959 [ERROR] ❌ Финальный фейл: order-9
+2026-04-10 23:30:22,052 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:22,135 [ERROR] ❌ Финальный фейл: order-10
+2026-04-10 23:30:22,172 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:22,460 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:22,622 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:23,314 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:23,620 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:23,739 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:24,025 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:24,162 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:24,803 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:25,191 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:25,395 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:25,599 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:25,699 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:25,804 [ERROR] ❌ Финальный фейл: order-11
+2026-04-10 23:30:26,192 [ERROR] ❌ Финальный фейл: order-12
+2026-04-10 23:30:26,332 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:26,396 [ERROR] ❌ Финальный фейл: order-13
+2026-04-10 23:30:26,599 [ERROR] ❌ Финальный фейл: order-14
+2026-04-10 23:30:26,699 [ERROR] ❌ Финальный фейл: order-15
+2026-04-10 23:30:26,716 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:26,910 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:27,185 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:27,344 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:27,839 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:28,229 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:28,445 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:28,661 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:28,834 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:29,287 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:29,660 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:29,897 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:30,147 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:30,269 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:30,287 [ERROR] ❌ Финальный фейл: order-16
+2026-04-10 23:30:30,660 [ERROR] ❌ Финальный фейл: order-17
+2026-04-10 23:30:30,717 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:30,898 [ERROR] ❌ Финальный фейл: order-18
+2026-04-10 23:30:31,113 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:31,148 [ERROR] ❌ Финальный фейл: order-19
+2026-04-10 23:30:31,269 [ERROR] ❌ Финальный фейл: order-20
+2026-04-10 23:30:31,353 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:31,638 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:31,754 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:32,161 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:32,619 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:32,854 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:33,130 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:33,268 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:33,776 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:33,863 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:33,999 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,071 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,175 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,317 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,368 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,484 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,579 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:34,762 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,301 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,317 [ERROR] ❌ Финальный фейл: order-21
+2026-04-10 23:30:35,368 [ERROR] ❌ Финальный фейл: order-22
+2026-04-10 23:30:35,386 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,485 [ERROR] ❌ Финальный фейл: order-23
+2026-04-10 23:30:35,580 [ERROR] ❌ Финальный фейл: order-24
+2026-04-10 23:30:35,583 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,672 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,762 [ERROR] ❌ Финальный фейл: order-25
+2026-04-10 23:30:35,769 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:35,894 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,000 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,104 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,222 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,286 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,789 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:36,935 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,119 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,263 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,387 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,467 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,596 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,725 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,790 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:30:37,801 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,905 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:37,936 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:30:38,120 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:30:38,263 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:30:38,314 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:38,388 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:30:38,429 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:38,639 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:38,816 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:38,980 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,083 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,160 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,325 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,393 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,509 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,812 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:39,956 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,083 [ERROR] ❌ Финальный фейл: order-26
+2026-04-10 23:30:40,100 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,161 [ERROR] ❌ Финальный фейл: order-27
+2026-04-10 23:30:40,288 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,325 [ERROR] ❌ Финальный фейл: order-28
+2026-04-10 23:30:40,394 [ERROR] ❌ Финальный фейл: order-29
+2026-04-10 23:30:40,510 [ERROR] ❌ Финальный фейл: order-30
+2026-04-10 23:30:40,525 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,642 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,752 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:40,915 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:41,027 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:41,113 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:42,141 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:42,252 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:42,443 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:42,614 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:42,661 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:43,656 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:43,744 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:43,926 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:44,145 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:44,256 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:44,656 [ERROR] ❌ Финальный фейл: order-31
+2026-04-10 23:30:44,745 [ERROR] ❌ Финальный фейл: order-32
+2026-04-10 23:30:44,927 [ERROR] ❌ Финальный фейл: order-33
+2026-04-10 23:30:45,145 [ERROR] ❌ Финальный фейл: order-34
+2026-04-10 23:30:45,174 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:45,257 [ERROR] ❌ Финальный фейл: order-35
+2026-04-10 23:30:45,293 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:45,404 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:45,634 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:45,756 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:46,624 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:46,889 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:46,921 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:47,122 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:47,236 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:48,070 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:48,388 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:48,500 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:48,640 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:48,752 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:49,071 [ERROR] ❌ Финальный фейл: order-36
+2026-04-10 23:30:49,389 [ERROR] ❌ Финальный фейл: order-37
+2026-04-10 23:30:49,500 [ERROR] ❌ Финальный фейл: order-38
+2026-04-10 23:30:49,528 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:49,640 [ERROR] ❌ Финальный фейл: order-39
+2026-04-10 23:30:49,752 [ERROR] ❌ Финальный фейл: order-40
+2026-04-10 23:30:49,892 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:50,040 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:50,160 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:50,278 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:50,970 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:51,359 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:51,578 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:51,663 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:51,785 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:52,425 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:52,793 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:53,060 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:53,215 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:53,319 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:53,426 [ERROR] ❌ Финальный фейл: order-41
+2026-04-10 23:30:53,794 [ERROR] ❌ Финальный фейл: order-42
+2026-04-10 23:30:53,876 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:54,061 [ERROR] ❌ Финальный фейл: order-43
+2026-04-10 23:30:54,215 [ERROR] ❌ Финальный фейл: order-44
+2026-04-10 23:30:54,231 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:54,319 [ERROR] ❌ Финальный фейл: order-45
+2026-04-10 23:30:54,595 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:54,721 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:54,836 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:55,334 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:55,686 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:56,091 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:56,254 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:56,358 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:56,799 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:57,170 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:57,562 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:57,789 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:57,799 [ERROR] ❌ Финальный фейл: order-46
+2026-04-10 23:30:57,876 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:30:58,171 [ERROR] ❌ Финальный фейл: order-47
+2026-04-10 23:30:58,563 [ERROR] ❌ Финальный фейл: order-48
+2026-04-10 23:30:58,790 [ERROR] ❌ Финальный фейл: order-49
+2026-04-10 23:30:58,877 [ERROR] ❌ Финальный фейл: order-50
+2026-04-10 23:30:58,879 [INFO] 🎯 Итог: 0 успешно, 50 ошибок
+2026-04-10 23:32:20,122 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:20,218 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:20,320 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:20,432 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:20,509 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:21,610 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:21,752 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:21,892 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:21,997 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:32:22,092 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:13,957 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:14,020 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:14,122 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:14,213 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:14,354 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:15,528 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:15,632 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:15,698 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:15,811 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:15,921 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:17,009 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:17,227 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:17,334 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:17,443 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:17,558 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:18,010 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:48:18,228 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:48:18,335 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:48:18,443 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:48:18,559 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:48:18,598 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:18,857 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:18,979 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:19,074 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:19,196 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:20,102 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:20,361 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:48:20,530 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:12,191 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:12,295 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:12,393 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:12,494 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:12,586 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:13,625 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:13,765 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:13,870 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:13,959 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:14,052 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:15,039 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:15,208 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:15,392 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:15,520 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:15,600 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:16,040 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:58:16,209 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:58:16,392 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:58:16,454 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:16,521 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:58:16,601 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:58:16,620 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:16,832 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:16,995 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:17,090 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:17,913 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:18,054 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:18,306 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:18,472 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:18,587 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:19,349 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:19,496 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:19,724 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:19,927 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:20,033 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:20,349 [ERROR] ❌ Финальный фейл: order-6
+2026-04-10 23:58:20,497 [ERROR] ❌ Финальный фейл: order-7
+2026-04-10 23:58:20,724 [ERROR] ❌ Финальный фейл: order-8
+2026-04-10 23:58:20,782 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:20,928 [ERROR] ❌ Финальный фейл: order-9
+2026-04-10 23:58:20,997 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:21,034 [ERROR] ❌ Финальный фейл: order-10
+2026-04-10 23:58:21,143 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:21,373 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:21,500 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:22,202 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:22,417 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:22,600 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:22,794 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:22,925 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:23,611 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:23,848 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:24,034 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:24,197 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:24,353 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:24,611 [ERROR] ❌ Финальный фейл: order-11
+2026-04-10 23:58:24,848 [ERROR] ❌ Финальный фейл: order-12
+2026-04-10 23:58:25,016 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:25,034 [ERROR] ❌ Финальный фейл: order-13
+2026-04-10 23:58:25,197 [ERROR] ❌ Финальный фейл: order-14
+2026-04-10 23:58:25,260 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:58:25,353 [ERROR] ❌ Финальный фейл: order-15
+2026-04-10 23:59:19,242 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:19,347 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:19,450 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:19,566 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:19,669 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:20,737 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:20,823 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:20,941 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:21,049 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:21,160 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:22,178 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:22,305 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:22,402 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:22,537 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:22,631 [WARNING] ⚠️ Попытка 3: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:23,178 [ERROR] ❌ Финальный фейл: order-5
+2026-04-10 23:59:23,305 [ERROR] ❌ Финальный фейл: order-1
+2026-04-10 23:59:23,403 [ERROR] ❌ Финальный фейл: order-4
+2026-04-10 23:59:23,538 [ERROR] ❌ Финальный фейл: order-3
+2026-04-10 23:59:23,608 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:23,632 [ERROR] ❌ Финальный фейл: order-2
+2026-04-10 23:59:23,782 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:23,904 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:24,045 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:24,118 [WARNING] ⚠️ Попытка 1: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:25,047 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:25,207 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:25,426 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW
+2026-04-10 23:59:25,497 [WARNING] ⚠️ Попытка 2: 400 Client Error: Bad Request for url: https://dorexclub.retailcrm.ru/api/v5/orders/create?apiKey=AK3jfpxmdAX2tid6GqX9nBAQqosnH4cW

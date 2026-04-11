@@ -1,0 +1,14 @@
+# Секреты
+.env
+.env.local
+.env.production
+
+# Кэш и логи
+*.log
+__pycache__/
+.next/
+node_modules/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
