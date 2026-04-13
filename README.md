@@ -1,4 +1,4 @@
-# AI Dashboard Test Task
+# Тестовое задание
 
 ## Что сделал
 - перенос по api данных из mock_orders.json в retailcrm
